@@ -6,3 +6,4 @@ def display_rainbow(colors)
   print "B: #{colors[3]}, "
   print "I: #{colors[4]}, "
   print "V: #{colors[5]}"
+end
